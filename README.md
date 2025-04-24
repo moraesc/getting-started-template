@@ -12,6 +12,7 @@ Don't worry if this all looks new - we've all been beginners! Here's how to find
 4. **View Output**: Look at the bottom panel - that's where your program will "talk" back to you!
 5. **Edit Code**: Just click in the editor and start typing - it's as simple as writing in a document.
 6. **Save Changes**: Remember to save your work with Ctrl+S (or Cmd+S on Mac) - just like saving a document!
+7. **Use GitHub Copilot**: Need help? GitHub Copilot is your AI coding buddy! Just start typing and it may suggest code, or press Ctrl+I (or Cmd+I on Mac) to ask Copilot questions directly in the editor. It's like having a helpful friend right by your side!
 
 ## 🎉 Your First Coding Adventure: Hello World!
 
