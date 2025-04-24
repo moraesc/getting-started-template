@@ -1,0 +1,22 @@
+{
+  "name": "Python Learning Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ],
+      "settings": {
+        "editor.fontSize": 14,
+        "terminal.integrated.fontSize": 14,
+        "editor.minimap.enabled": false,
+        "workbench.startupEditor": "none",
+        "workbench.editorAssociations": {
+          "*.md": "vscode.markdown.preview.editor"
+        }
+      }
+    }
+  },
+  "postCreateCommand": "python .devcontainer/welcome.py"
+}
